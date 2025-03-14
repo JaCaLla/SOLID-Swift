@@ -1,5 +1,5 @@
 # SOLID-Swift
-This repository contains Swift examples applying SOLID principles. This is the basecode for following post [S.O.L.I.D. principles in Swift](https://javios.eu/swift/copy-on-write-in-swift-managing-value-types/)
+This repository contains Swift examples applying SOLID principles. This is the basecode for following post [S.O.L.I.D. principles in Swift](https://javios.eu/uncategorized/solid-principles-in-swift/)
 
 
 
